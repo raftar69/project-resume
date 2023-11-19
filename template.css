@@ -1,0 +1,360 @@
+.left{
+    background-color: rgba(79,79,81,225);
+    height:1196px;
+    width:350px;
+    border-top-left-radius:10px;
+    border-bottom-left-radius: 10px;
+    
+}
+/*name*/
+.name {
+    font-size:40px;
+    color:white;
+    font-family: Arial;
+    font-weight:600;
+    padding-left: 70px;
+    padding-top:60px;
+}
+.name p{
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: 100;
+}
+
+/*profile*/
+.profile{
+ font-family: Arial;
+ color:white;   
+ padding-left: 60px;
+ text-align: left;
+ margin-top: 60px;
+ 
+}
+.profile1{
+    font-size: 20px;
+    font-family:Arial;
+    font-weight: 700; 
+    display: flex;
+    align-items: flex-start;
+    border-bottom: solid white 3px;
+    width:220px;
+    padding-bottom:5px;
+}
+.profile1 a{
+    margin-left:20px;
+}
+.profile p{
+    padding-right: 70px;
+}
+
+/*language*/
+.lang{
+    font-family: Arial;
+    color:white;   
+    padding-left: 60px;
+    text-align: left;
+    margin-top: 40px;
+}
+.lang1{
+    font-size: 20px;
+    font-family:Arial;
+    font-weight: 700; 
+    display: flex;
+    align-items: flex-start;
+    border-bottom: solid white 3px;
+    width:220px
+
+}
+.lang a{
+    margin-left: 20px;
+}
+.eng{
+    display: flex;
+    margin-left:-15px;
+}
+.rus{
+    display: flex;
+    margin-left:-15px;
+    margin-top: 15px;
+}
+.dut{
+    display: flex;
+    margin-left:-15px;
+    margin-top: 15px;
+}
+.ger{
+    display: flex;
+    margin-left:-15px;
+    margin-top: 15px;
+}
+.bx1{
+    width: 90px;
+    height: 7px;
+    background-color: white;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+.bx2{
+    width: 80px;
+    height: 7px;
+    background-color: white;
+    margin-left: 34px;
+    margin-top: 5px;
+}
+.bx3{
+    width: 70px;
+    height: 7px;
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 5px;
+}
+.bx4{
+    width: 60px;
+    height: 7px;
+    background-color:white;
+    margin-left: 33px;
+    margin-top: 5px;
+}
+
+/*skill*/
+.skill{
+    font-family: Arial;
+    color:white;   
+    padding-left: 60px;
+    text-align: left;
+    margin-top: 40px;
+}
+.skill1{
+    font-size: 20px;
+    font-family:Arial;
+    font-weight: 700; 
+    display: flex;
+    align-items: flex-start;
+    border-bottom: solid white 3px;
+    width:220px
+}
+.skill a{
+    margin-left: 20px;
+}
+.pro{
+    display: flex;
+    margin-left:-15px;
+    margin-top: 15px;
+}
+.tem{
+    display: flex;
+    margin-left:-15px;
+    margin-top: 15px;
+}
+.fle{
+    display: flex;
+    margin-left:-15px;
+    margin-top: 15px;
+}
+.cre{
+    display: flex;
+    margin-left:-15px;
+    margin-top: 15px;
+}
+.man{
+    display: flex;
+    margin-left:-15px;
+    margin-top: 15px;
+}
+.box1{
+    width: 75px;
+    height: 7px;
+    background-color: white;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+.box2{
+    width: 60px;
+    height: 7px;
+    background-color: white;
+    margin-left: 44px;
+    margin-top: 5px;
+}
+.box3{
+    width: 70px;
+    height: 7px;
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 5px;
+}
+.box4{
+    width: 60px;
+    height: 7px;
+    background-color:white;
+    margin-left: 49px;
+    margin-top: 5px;
+}
+.box5{
+    width: 60px;
+    height: 7px;
+    background-color:white;
+    margin-left: 23px;
+    margin-top: 5px;
+}
+.award{
+    font-family: Arial;
+    color:white;   
+    padding-left: 60px;
+    text-align: left;
+    margin-top: 40px;
+}
+.award1{
+    font-size: 20px;
+    font-family:Arial;
+    font-weight: 700; 
+    display: flex;
+    align-items: flex-start;
+    border-bottom: solid white 3px;
+    width:220px;
+    margin-bottom: 20px;
+}
+.award a{
+    font-weight: 700;
+}
+.award p{
+    padding-right: 60px;
+}
+/*right*/
+.right{
+    background-color: rgb(227,227,229,255);
+    height: 1196px;
+    width:450px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+/*information*/
+.information{
+    margin-left: 70px;
+    margin-top: 40px;
+}
+.information p{
+    padding-left: 15px;
+    font-family: Arial;
+    font-weight: 600;
+}
+.phone{
+    display: flex;
+    align-items: center;
+}
+.mail{
+    display:flex;
+    align-items: center;
+    margin-top: -10px;
+}
+.web{
+    display:flex;
+    align-items: center;
+    margin-top: -10px;
+}
+.loc{
+    display: flex;
+    align-items: center;
+    margin-top: -10px;
+}
+.resume{
+    display: flex;
+    height: 1196px;;
+    width: 793px;
+}
+.Education{
+    font-family: Arial;
+    color:rgba(79,79,81,225);   
+    padding-left: 40px;
+    text-align: left;
+    margin-top: 48px;
+}
+.Education1{
+    font-size: 20px;
+    font-family:Arial;
+    font-weight: 700; 
+    display: flex;
+    align-items: flex-start;
+    border-bottom: solid rgba(79,79,81,225) 3px;
+    width:370px;
+    margin-bottom: 20px;
+}
+.Education a{
+    margin-left: 20px;
+}
+.borcile{
+    display: flex;
+    font-size:small;
+}
+.school p{
+padding-right: 50px;
+}
+.university {
+    width: 150px;
+    padding-left: -30px;
+}
+.bor{
+    display: flex;
+}
+.bor2{
+    padding-left: 5px;
+}
+.university a{
+    font-weight: 700;
+    margin-left:-1px
+}
+.school{
+    margin-left:30px;
+}
+.school a{
+ font-weight: 700;
+ margin-left:-1px;
+}
+.Work{
+    font-family: Arial;
+    color:rgba(79,79,81,225);   
+    padding-left: 40px;
+    text-align: left;
+    margin-top: 48px;
+}
+.Work1{
+    font-size: 20px;
+    font-family:Arial;
+    font-weight: 700; 
+    display: flex;
+    align-items: flex-start;
+    border-bottom: solid rgba(79,79,81,225) 3px;
+    width:370px;
+    margin-bottom: 20px;
+}
+.Work1 a{
+    padding-left: 20px;
+}
+.reference{
+    font-family: Arial;
+    color:rgba(79,79,81,225);   
+    padding-left: 40px;
+    text-align: left;
+    margin-top: 48px;
+}
+.reference1{
+    font-size: 20px;
+    font-family:Arial;
+    font-weight: 700; 
+    display: flex;
+    align-items: flex-start;
+    border-bottom: solid rgba(79,79,81,225) 3px;
+    width:370px;
+    margin-bottom: 20px;
+}
+.reference1 a{
+    padding-left: 20px;
+}
+.firstref a{
+    font-weight: 700;
+}
+.secondref a{
+    font-weight: 700;
+}
+.ref{
+    display: flex;
+}
